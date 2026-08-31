@@ -1,0 +1,15 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This dataset is derived from systematic reviews published in PubMed Central
+under the Creative Commons Attribution licence. The licence of every one of the
+5,434 source reviews was verified directly from the <license> element of its
+JATS XML; all declare creativecommons.org/licenses/by.
+
+You are free to share and adapt this dataset for any purpose, including
+commercially, provided you give appropriate credit.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/
+
+NOTE: this licence covers THIS DATASET. Full texts of the source studies
+referenced by `source_pmcid` are NOT included and carry mixed licences of their
+own; check each before redistributing.

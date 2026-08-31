@@ -1,0 +1,61 @@
+{
+ "version": "1.1",
+ "n_items": 211208,
+ "columns": [
+  "review_pmcid",
+  "table_no",
+  "table_label",
+  "caption",
+  "study_index",
+  "study_label",
+  "study_citations",
+  "header",
+  "question",
+  "answer",
+  "source_pmcid",
+  "source_status",
+  "arm"
+ ],
+ "splits": {
+  "test-pre-2025": {
+   "file": "test-pre-2025.csv.gz",
+   "items": 12429,
+   "reviews": 196,
+   "source_papers": 1376,
+   "bytes": 308219,
+   "sha256": "5dc87bbd567ac693262b64bbfb803b470cef15900fdb0c91d4407144538fbf3d"
+  },
+  "train-2025": {
+   "file": "train-2025.csv.gz",
+   "items": 51123,
+   "reviews": 780,
+   "source_papers": 5530,
+   "bytes": 1258963,
+   "sha256": "8c03abdbb0c898d4d1b9c914b45c25adb31e8a7a1b8c78ad9780946ad320b224"
+  },
+  "test-2026": {
+   "file": "test-2026.csv.gz",
+   "items": 35465,
+   "reviews": 591,
+   "source_papers": 3979,
+   "bytes": 887321,
+   "sha256": "904eb8a94d4a06e4344224e8f6efc458aa6e04bd431e50c3751e43c46f9616c8"
+  },
+  "dev-2026": {
+   "file": "dev-2026.csv.gz",
+   "items": 14616,
+   "reviews": 247,
+   "source_papers": 1640,
+   "bytes": 351060,
+   "sha256": "1c08a7bff0404e37714ab98443ad9e244b2042aa2cd9646898181e5e5e894a94"
+  },
+  "train-2026": {
+   "file": "train-2026.csv.gz",
+   "items": 97575,
+   "reviews": 1389,
+   "source_papers": 10552,
+   "bytes": 2373621,
+   "sha256": "f409422b29f30bd2c3f8cf1e051ca1b5b83540470463e748929a9d82f6927daa"
+  }
+ }
+}
